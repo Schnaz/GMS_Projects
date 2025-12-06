@@ -1,0 +1,1 @@
+Deathtext=1;

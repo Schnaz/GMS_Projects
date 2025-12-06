@@ -1,0 +1,2 @@
+instance_create_layer(irandom_range(32,224),irandom_range(40,96),layer,Glit_ch);
+Tester.visible=false;

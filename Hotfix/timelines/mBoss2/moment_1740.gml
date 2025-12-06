@@ -1,0 +1,1 @@
+Tbox.Dialogue=[[0]];
