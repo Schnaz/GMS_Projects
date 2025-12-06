@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"breakit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"breakit",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

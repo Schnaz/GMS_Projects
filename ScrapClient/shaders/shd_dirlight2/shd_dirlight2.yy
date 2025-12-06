@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_dirlight2",
+  "name":"shd_dirlight2",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

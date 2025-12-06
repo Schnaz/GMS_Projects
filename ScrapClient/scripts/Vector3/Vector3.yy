@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vector3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vector3",
+  "parent":{
+    "name":"3DModeling",
+    "path":"folders/Scripts/3DModeling.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"world2screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"world2screen",
+  "parent":{
+    "name":"3DViewCoordinates",
+    "path":"folders/Scripts/3DViewCoordinates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_sprite_bb",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_sprite_bb",
+  "parent":{
+    "name":"Shader_Scripts",
+    "path":"folders/Scripts/Shader_Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

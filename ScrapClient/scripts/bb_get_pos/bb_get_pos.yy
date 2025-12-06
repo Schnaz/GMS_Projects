@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bb_get_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bb_get_pos",
+  "parent":{
+    "name":"Depricated",
+    "path":"folders/Scripts/Depricated.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

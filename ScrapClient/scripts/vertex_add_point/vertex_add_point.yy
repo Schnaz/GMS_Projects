@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"vertex_add_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vertex_add_point",
+  "parent":{
+    "name":"3DModeling",
+    "path":"folders/Scripts/3DModeling.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

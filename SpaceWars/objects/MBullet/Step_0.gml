@@ -1,0 +1,23 @@
+/// @description Insert description here
+// You can write your code in this editor
+if Age=1 {if Eload=1 physics_fixture_set_restitution(ball,1);
+physics_fixture_set_sensor(ball, false);
+physics_remove_fixture(self,ball);	
+physics_fixture_bind(ball,self);	
+}
+
+if Age>=Limit&&Eload=3 {
+with (instance_create_depth(phy_position_x,phy_position_y,depth,Explosion))
+{
+	phy_speed_x=other.phy_speed_x;
+	phy_speed_y=other.phy_speed_y;
+}
+instance_destroy();
+}
+
+Age+=1;
+
+Xvel=phy_linear_velocity_x;
+Yvel=phy_linear_velocity_y;
+
+if Age>Alim instance_destroy();

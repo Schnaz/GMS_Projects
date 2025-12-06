@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ttip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ttip",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

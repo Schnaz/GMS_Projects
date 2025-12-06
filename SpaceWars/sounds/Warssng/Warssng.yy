@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Warssng",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":64.0,
+  "exportDir":"",
+  "name":"Warssng",
+  "parent":{
+    "name":"Songs",
+    "path":"folders/Sounds/Songs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Warssng.wav",
+  "volume":1.0,
+}

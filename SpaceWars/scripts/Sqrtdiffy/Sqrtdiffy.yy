@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sqrtdiffy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sqrtdiffy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

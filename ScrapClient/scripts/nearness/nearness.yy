@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nearness",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nearness",
+  "parent":{
+    "name":"Depricated",
+    "path":"folders/Scripts/Depricated.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
